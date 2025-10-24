@@ -1,6 +1,6 @@
 ## ENCODING LIMINAL SPACE
 
-### A Technical Manual for Cross-Reality Instrumentation
+### A Technical Manual for Reality Engineering
 
 **GEDDON LABS RESEARCH DIVISION**
 *Classification: Threshold Operations*
