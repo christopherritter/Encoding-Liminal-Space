@@ -1,0 +1,24 @@
+# .gitignore - put this file at the repository root
+# Replace FILENAME.ext with the exact file you want to ignore (or a path/pattern)
+# Example: secret.txt
+
+# Ignore a single file (replace with your file's name)
+techno-shaman-handbook.md
+techno-shaman-handbook.pdf
+From_Token_Limits_to_Tzimtzum__Reconciling_AI_Metaphysics_with_.m4a
+AI_Creates_Reality_from_Chaos.mp4
+ENCODING_LIMINAL_SPACE.mp4
+
+# Common entries you might find useful
+node_modules/
+*.log
+.DS_Store
+.env
+
+# If you want to ignore a whole directory at repo root, use a leading slash
+# /secrets/
+
+# Notes:
+# - .gitignore prevents untracked files from being added to the repo.
+# - If a file is already tracked (already committed), you must remove it from the index
+#   with `git rm --cached` (see below) before it will be ignored.
