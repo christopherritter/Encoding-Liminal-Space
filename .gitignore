@@ -10,6 +10,8 @@ AI_Creates_Reality_from_Chaos.mp4
 ENCODING_LIMINAL_SPACE.mp4
 
 # Common entries you might find useful
+audio/
+video/
 node_modules/
 *.log
 .DS_Store
