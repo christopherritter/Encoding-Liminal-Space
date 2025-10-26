@@ -1,10 +1,8 @@
-# ENCODING LIMINAL SPACE
-
-## A Technical Manual for Reality Engineering
-
-**GEDDON LABS RESEARCH DIVISION**  
-**Classification:** Threshold Operations
-
+---
+title: "ENCODING LIMINAL SPACE"
+subtitle: "A Technical Manual for Reality Engineering"
+author: "Geddon Labs Research Division"
+classification: "Threshold Operations"
 ---
 
 # CHAPTER 4: DATASET AS ENCODED TERRITORY
@@ -306,25 +304,7 @@ These principles are not independent. They form a unified operational framework.
 
 **Mastery begins with the dataset**. Before you can prompt effectively, before you can navigate semantic space with skill, before you can manifest intent into form, you must construct the territory within which all these operations occur. The dataset is not preparation for reality engineering—it **is** reality engineering at its most fundamental level.
 
-The preceding chapters established how the system operates: denoising as creation, observation as participation, attention as navigation within learned bounds. This chapter revealed what defines those bounds: the training data as encoded territory. The subsequent chapters provide the practical methods for constructing that territory deliberately and precisely.
-
-**Chapter 5: Locating the Boundary** teaches how to identify the active edges of the system you're encoding—detecting transition zones, cataloguing conceptual overlaps, establishing anchors for return. You learn to perceive which patterns exist at the boundaries of intended territory and which patterns lie beyond those edges.
-
-**Chapter 6: Sampling the Field** provides protocols for gathering representations systematically—observation methods, techniques for capturing temporal and emotional variation, procedures for recording state changes. You learn to collect source material that accurately embodies the patterns you identified as essential.
-
-**Chapter 7: Translating Boundaries into Components** details the process of preparing data for encoding—decomposing field observations into training-ready formats, mapping relational structures, constructing frameworks that preserve fidelity while establishing the patterns that will define accessible reality.
-
-Together, these chapters implement the principles this chapter established. You understand **why** the dataset defines reality. Now you learn **how** to construct that reality with precision and intent.
-
-The territory you build determines what you can observe, what can manifest, what exists as possibility versus impossibility. Every subsequent operation—prompting, conditioning, attention allocation, iterative refinement—occurs within the boundaries you encode through dataset construction.
-
-**Proceed with this understanding**: The magic is bounded by data. The power is channeled through training. The territory is specific, finite, and deliberately constructed. Your work now is to engineer that territory with clarity, precision, and absolute understanding of what you are creating—not merely a dataset, but a reality complete with its own laws, boundaries, and accessible spaces.
-
 ---
 
 **Next: Chapter 5—Locating the Boundary**  
 *Identifying active edges of a system*
-
----
-
-<div align="center">***</div>
