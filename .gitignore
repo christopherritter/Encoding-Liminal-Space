@@ -13,6 +13,7 @@ ENCODING_LIMINAL_SPACE.mp4
 audio/
 video/
 revisions/
+instructions/
 node_modules/
 *.log
 .DS_Store
