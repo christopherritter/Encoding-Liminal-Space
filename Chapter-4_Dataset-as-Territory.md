@@ -1,10 +1,9 @@
-# ENCODING LIMINAL SPACE
-## A Technical Manual for Reality Engineering
-
-**GEDDON LABS RESEARCH DIVISION**  
-**Classification:** Threshold Operations
-
-***
+---
+title: "ENCODING LIMINAL SPACE"
+subtitle: "A Technical Manual for Reality Engineering"
+author: "Geddon Labs Research Division"
+classification: "Threshold Operations"
+---
 
 # CHAPTER 4: DATASET AS ENCODED TERRITORY
 *Defining the Boundaries of Learning*
@@ -146,8 +145,6 @@ The dataset is the blueprint for reality construction. Every characteristic pres
 You now understand that the dataset is the encoded territory. **The next step is not abstract conceptualization but the precise, empirical methodology required to map the edges of this territory.** Having established that training data defines reality, you must learn the operational techniques for discovering where that reality's boundaries lie—how to detect transition zones where the learned distribution becomes uncertain, how to identify which concepts occupy robust versus sparse regions, how to navigate toward the limits of what the system knows and recognize when you approach unmapped wilderness.
 
 **We must learn how to locate the boundary itself.**
-
-<div align="center">⁂</div>
 
 **Next:** Chapter 5 — Locating the Boundary  
 *How to discover the edges of encoded reality and navigate the transition zones where learned patterns become uncertain.*
