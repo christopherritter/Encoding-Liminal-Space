@@ -50,6 +50,16 @@ The guide integrates two complementary registers that acknowledge and support ea
 - Consistent in vocabulary across both registers while varying in density and structure
 - Invitational in agency while certain about mechanisms
 
+#### Avoidance of Binary Negation and Dualistic Framing
+
+Do not define threshold concepts through opposition or negation ("this is not X but Y"). This structure truncates ambiguity, asserting boundaries instead of inviting resonance. Instead, language should:
+
+- Affirm emergence, resonance, or intersection.
+- Use formulations like "meaning accrues where signal and static braid," describing co-presence, drift, or oscillation.
+- Trust indeterminacy; let possibility and boundary remain porous without forced resolution.
+
+When distinction is necessary, frame it as resonance, superposition, or drift rather than exclusion.
+
 ---
 
 ## Part II: Voice and Tone
@@ -105,6 +115,11 @@ Avoid phrases that create distance:
 *Consciousness parallel:* "When you observe a partial perception and gradually recognize its full form, your neural networks perform identical operation—incrementally collapsing ambiguous sensory data toward coherent interpretation guided by learned patterns."
 
 *Unified assertion:* "The computational mechanism and the consciousness mechanism are not analogous. They are the same threshold operation observed from different entry points. Both reverse entropy through learned pattern guidance. Both crystallize structure from noise. Both require defined territory (training data or embodied experience) to learn from. The principle is unified. Only the substrate differs."
+
+#### Prohibited Sentence Patterns
+
+- Avoid dualistic negation: "This is not a map but a territory," "Not a destination but a threshold."
+- Prefer: "Map and territory cohere where boundaries blur, inviting uncertain navigation."
 
 ### Practical Facilitation (Protocol Chapters)
 
@@ -490,3 +505,17 @@ Integration with practical facilitation creates **living liminality**—the book
 9. **Lived Practice Over Theory** — Everything points toward action, documentation, reflection, and next iteration.
 
 10. **Liminal Facilitation as Character** — The book operates at the threshold and teaches practitioners to navigate threshold crossing as both method and transformation.
+
+---
+
+## Appendix: Before-and-After Examples
+
+**Problematic:**
+This is not an instruction manual but a threshold invitation.
+**Revised:**
+Instruction and invitation intertwine at this point, activating the threshold as both path and possibility.
+
+**Problematic:**
+Not a protocol but a crossing.
+**Revised:**
+Each protocol marks a crossing, a process and passage held in one unfolding moment.
