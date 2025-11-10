@@ -1,3 +1,10 @@
+---
+title: "ENCODING LIMINAL SPACE"
+subtitle: "A Technical Manual for Reality Engineering"
+author: "Geddon Labs Research Division"
+classification: "Threshold Operations"
+---
+
 # Chapter 11: Parameter Design
 
 ## Subtitle: Specifying the Laws of Assimilation
@@ -98,3 +105,7 @@ Every parameter you set, every numerical choice you made, reflects recognition o
 
 You have specified the laws of assimilation. You have documented your parameters and tested their sensitivity. You understand how intensity, density, depth, and permeability will govern your system's learning. Before you initiate training, prepare your environment for the crystallization process. Ensure your container is stable, your dependencies are isolated, your data is prepared and verified. In the next chapter, you will actualize these parameter specifications into the training process itself—the act of crystallization, the manifestation of your territorial definition into learned form.
 
+---
+
+**Next: Chapter 12 — Training Procedures**  
+*Execution and Observation: Initiating the Learning Loop and Monitoring Crystallization*
