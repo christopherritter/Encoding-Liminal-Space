@@ -631,5 +631,3 @@ Keep this documentation accessible. Each subsequent chapter will reference and b
 
 **Next: Chapter 4 — Dataset as Encoded Territory**  
 *Defining the boundaries of learning*
-
-***
