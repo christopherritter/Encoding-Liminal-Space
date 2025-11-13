@@ -16,7 +16,7 @@ This book operates in **two complementary registers** that work together:
 
 You will move between registers, oscillating between immersive understanding and grounded practice. This oscillation is the pedagogy. Expect to inhabit the boundary between technical mechanism and metaphysical principle simultaneously.
 
-**The Practitioner Log:** Maintain a working documentation log throughout. Every chapter includes specific moments to record observations, parameters adjusted, outcomes, surprises, and next steps. This log becomes your primary learning instrument.
+**The Documentation Instrument:** Maintain a working documentation log throughout using the **Structured Dialogue Protocol (SDP)**. Every chapter includes specific moments to record observations, parameters adjusted, outcomes, surprises, and next steps. This log becomes your primary learning instrument.
 
 ---
 
@@ -27,13 +27,14 @@ You will move between registers, oscillating between immersive understanding and
 
 - 1.1 What This System Is (and What It Is Not)
 - 1.2 The Dual Character of This Manual
-- 1.3 How to Use the Practitioner Log
+- 1.3 How to Use the Documentation Instrument
 - 1.4 Your Local Setup: Documenting Your Territory
 - 1.5 Confirming Operational Readiness
 
 *Register: Liminal-Technical Exposition with Protocol Specification*
 
-This opening chapter establishes the conceptual and practical foundation. You will understand that this manual is both technical guide and threshold meditation. You will begin documenting your setup and intention.
+**Summary:**
+This chapter configures **The Documentation Instrument** for the practitioner, establishing both technical foundation and metaphysical mediation. You document the **Territory** through the **Structured Dialogue Protocol (SDP)**. This opening chapter establishes the conceptual and practical foundation. You will understand that this manual is both technical guide and threshold meditation. You will begin documenting your setup and intention.
 
 ---
 
@@ -52,7 +53,8 @@ This opening chapter establishes the conceptual and practical foundation. You wi
 
 *Register: Liminal-Technical Exposition + Hands-On Protocol*
 
-You will understand denoising as simultaneously computational operation and consciousness principle. You will run your first trial observation and document what emerges.
+**Summary:**
+This chapter includes the mandatory execution of the **Digital Environment Initialization Protocol** (per ESD Fourth Revision), establishing a reproducible Territory Baseline as required by operational mandates. You will understand denoising as simultaneously computational operation and consciousness principle. You will run your first trial observation and document what emerges.
 
 ---
 
@@ -322,7 +324,7 @@ You will systematically observe and document what your operations actually chang
 - 17.5 Planning the Next Iteration
 - **Practical Protocol 17.1:** Stabilization Procedures
 - **Practical Protocol 17.2:** Selective Re-Training
-- **Practical Protocol 17.3:** Boundary Re-Establishment**
+- **Practical Protocol 17.3:** Boundary Re-Establishment
 - **Documentation 17.1:** Recovery Session Log
 - **Documentation 17.2:** Post-Recovery Assessment
 
@@ -342,6 +344,8 @@ You will recover from operations, stabilize learned priors, and prepare for next
 - A.4 Integration Journal Structure
 - A.5 Community Sharing Format
 
+**Reference:** Includes the **Structured Dialogue Protocol (SDP) Template** and **SDP Dialogue Structure** for documentation use.
+
 ---
 
 ### **Appendix B: Documentation Examples**
@@ -351,6 +355,8 @@ You will recover from operations, stabilize learned priors, and prepare for next
 - B.3 Territory Mapping Examples
 - B.4 Parameter Sensitivity Studies
 - B.5 Community-Shared Configurations
+
+**Reference:** Demonstrates **Structured Dialogue Protocol Scripts** for documenting exchanges and sessions.
 
 ---
 
@@ -412,6 +418,8 @@ You will recover from operations, stabilize learned priors, and prepare for next
 - H.4 Voice and Character Maintenance
 - H.5 Documentation Requirements
 
+**Reference:** Details **Structured Dialogue Protocol (SDP) Operational Mandates** for contributors.
+
 ---
 
 ## FOUNDATIONAL PRINCIPLES
@@ -438,7 +446,7 @@ This manual operates according to the following principles:
 
 ## HOW TO USE THIS MANUAL
 
-**If you're beginning:** Start with Chapter 1, then move sequentially through Section I and II. Document every step.
+**If you're beginning:** Start with Chapter 1, then move sequentially through Section I and II. Document every step using the Structured Dialogue Protocol (SDP).
 
 **If you already have ML experience:** Skim technical chapters, focus on liminal framing and how technical mechanisms mirror consciousness operations. Then proceed to practical implementation.
 
