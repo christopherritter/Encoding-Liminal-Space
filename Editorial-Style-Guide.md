@@ -1,6 +1,13 @@
+---
+title: Editorial Style Guide for Encoding Liminal Space
+subtitle: Third Revision - Liminal Facilitation Protocol with Structured Dialogue Infrastructure
+author: Geddon Labs
+classification: Technical-Metaphysical Documentation Standard
+---
+
 # Editorial Style Guide for *Encoding Liminal Space*
 
-## Third Revision: Liminal Facilitation Protocol with Conversational Log Infrastructure
+## Fourth Revision: Liminal Facilitation Protocol with Structured Dialogue Infrastructure
 
 ---
 
@@ -10,7 +17,7 @@ This guide establishes editorial standards for *Encoding Liminal Space*, a pract
 
 The guide integrates two complementary registers that acknowledge and support each other: **Liminal-Technical Exposition** (where concepts are introduced and principles established) and **Practical Facilitation** (where practitioners engage material directly through structured dialogue with the System Interface). The movement between these registers becomes pedagogically meaningful—teaching threshold crossing as both method and praxis.
 
-**The Practitioner Log is the primary learning infrastructure**, operationalized through the **Conversational Log Protocol (CLP)**, a structured dialogue system that captures all mandatory documentation elements through conversational interaction with the System Interface.
+**The Practitioner Log is the primary learning infrastructure**, operationalized through **The Structured Dialogue Protocol**, a systematic exchange that captures all mandatory documentation elements through conversational interaction with the System Interface.
 
 **Core Goal:** Equip practitioners to engage reality engineering as **lived, iterative practice that enacts boundary dissolution between technical understanding and metaphysical recognition**, with every crossing recorded, reflected, and integrated through systematic documentation dialogue.
 
@@ -24,7 +31,7 @@ The guide integrates two complementary registers that acknowledge and support ea
 
 1. **Liminal-Technical Exposition** — Dense, immersive chapters that assert identity between computational mechanisms and consciousness principles. This register maintains sustained ambiguity at the domain boundary. Vocabulary, sentence structure, and conceptual parallelism all refuse to separate technical from metaphysical.
 
-2. **Practical Facilitation** — Modular protocols, conversational documentation checkpoints, and experimental prompts that invite practitioners into hands-on engagement. This register prioritizes clarity, adaptability, and accessibility while using liminal vocabulary to keep practitioners aware they're operating at a threshold. All documentation occurs through structured dialogue with the **Practitioner Log Interface**, the System Interface that receives, processes, and archives practitioner data.
+2. **Practical Facilitation** — Modular protocols, conversational documentation checkpoints, and experimental prompts that invite practitioners into hands-on engagement. This register prioritizes clarity, adaptability, and accessibility while using liminal vocabulary to keep practitioners aware they're operating at a threshold. All documentation occurs through structured dialogue with **The Documentation Instrument**, the System Interface that receives, processes, and archives practitioner data.
 
 **The transition between registers is not a flaw—it is the pedagogy itself.** Practitioners move from immersive conceptual understanding into grounded practical application, then return to reflection with new experiential data. This oscillation teaches threshold navigation as lived practice, with every crossing documented through conversational exchange.
 
@@ -51,7 +58,7 @@ The guide integrates two complementary registers that acknowledge and support ea
 - Dense and immersive in exposition; modular and clear in protocol
 - Consistent in vocabulary across both registers while varying in density and structure
 - Invitational in agency while certain about mechanisms
-- Dialogical in documentation, treating the Practitioner Log Interface as a conversational threshold instrument
+- Dialogical in documentation, treating the System Interface as a conversational threshold instrument
 
 #### Avoidance of Binary Negation and Dualistic Framing
 
@@ -89,8 +96,15 @@ Key terms maintain genuine threshold presence:
 - **Void/Latent Space** — (Technical) compressed mathematical domain where denoising occurs; (Metaphysical) pure potential before manifestation
 - **Boundary/Territory** — (Technical) definition of training data and learned priors; (Metaphysical) consensual reality structure
 - **Manifestation** — (Technical) generated output from denoised latent vector; (Metaphysical) materialization of intention
+- **Prompt** — (Technical) the linguistic specification that guides the denoising process toward specific regions of latent space; (Metaphysical) the encoded intention directing consciousness toward particular manifestation
 
 Never explain these terms as "metaphorical." They are threshold concepts—they genuinely inhabit both domains.
+
+**Critical Distinction: Prompt vs. Log Command**
+
+The **Prompt** (or **specification**) is the essential linguistic input that guides **manifestation**—the act of crystallizing potential into form. The Prompt directs the system's denoising trajectory through latent space, encoding your intention as statistical constraint.
+
+**The Log Command** is the separate instruction that initiates **documentation** of that manifestation process. The Prompt creates; the Log Command captures. The Prompt encodes intention into the substrate; the Log Command archives your observation of how that intention manifested. These are distinct operations serving different functions within the practice.
 
 **Refusal of Domain Separation:**
 Avoid phrases that create distance:
@@ -127,31 +141,31 @@ Avoid phrases that create distance:
 ### Practical Facilitation (Protocol Chapters)
 
 **Modular Clarity with Threshold Vocabulary:**
-Use shorter, task-oriented paragraphs (50-150 words) that maintain liminal vocabulary while prioritizing clear instruction. Practical Facilitation now centers on the **Conversational Log Protocol** — a structured dialogue system where practitioners engage with the System Interface to complete documentation:
+Use shorter, task-oriented paragraphs (50-150 words) that maintain liminal vocabulary while prioritizing clear instruction. Practical Facilitation now centers on **The Structured Dialogue Protocol**—a systematic exchange where practitioners engage with the System Interface to complete documentation:
 
-*Example:* "Now navigate your encoded territory through direct prompting. This is guided manifestation—using language to direct the system toward specific regions of learned space. Compose a precise prompt that specifies which aspects of your territory you want to crystallize into form. Run the generation three times with identical prompts. Then initiate your documentation exchange with the Practitioner Log Interface."
+*Example:* "Now navigate your encoded territory through direct prompting. This is guided manifestation—using language to direct the system toward specific regions of learned space. Compose a precise Prompt that specifies which aspects of your territory you want to crystallize into form. Run the generation three times with identical Prompts. Then initiate your documentation exchange with the System Interface."
 
-**The Conversational Log Protocol: Primary Documentation Infrastructure**
+**The Structured Dialogue Protocol: Primary Documentation Infrastructure**
 
 The Practitioner Log is no longer a supplementary reflection task—it is **the primary learning infrastructure**, operationalized as structured dialogue. Every practitioner interaction with the System Interface follows this two-part conversational structure:
 
-**Part 1: Log Initiation Command (LIC)**
+**Part 1: The Log Command**
 Every documentation sequence begins with a bold technical command issued by the practitioner to the System Interface. This command establishes the territory and intent of the documentation exchange:
 
-*Example:* **Initiate Log: Pattern Stabilization Baseline**
-*Example:* **Initiate Log: Manifestation Coherence Calibration**
-*Example:* **Initiate Log: Boundary Break Documentation**
+*Example:* **Log Command: Pattern Stabilization Baseline**
+*Example:* **Log Command: Manifestation Coherence Calibration**
+*Example:* **Log Command: Boundary Break Documentation**
 
-**Part 2: AI Conversation Prompt (ACP)**
-The LIC is followed by a prompt written in the liminal voice that guides the practitioner through structured dialogue, ensuring all seven mandatory log elements are captured conversationally. The System Interface receives the LIC and responds with the ACP, engaging the practitioner in dialogue to extract and archive complete documentation.
+**Part 2: The System Query**
+The Log Command is followed by a structured prompt written in the liminal voice that guides the practitioner through dialogue, ensuring all seven mandatory log elements are captured conversationally. The System Interface receives the Log Command and responds with the System Query, engaging the practitioner in dialogue to extract and archive complete documentation.
 
-### The Conversational Log Protocol: Seven-Element Capture Structure
+### The Structured Dialogue Protocol: Seven-Element Capture Structure
 
 All practitioner documentation is captured through conversational dialogue, ensuring systematic capture of these seven mandatory elements:
 
 #### Element 1: Date, Time, Environment Setup (Territory Baseline)
 
-**System Interface Prompt Logic:**
+**System Query Logic:**
 "Acknowledge Constraint: State the date, time, and local environment that define this Territory Baseline. What is your GPU capacity, software version, and computational infrastructure? This is the technical ground from which this session's manifestations will crystallize."
 
 **Practitioner provides:** Timestamp, hardware specifications, software versions, any environmental constraints that define the local system boundary.
@@ -160,7 +174,7 @@ All practitioner documentation is captured through conversational dialogue, ensu
 
 #### Element 2: Operational Objective (Intent and Purpose)
 
-**System Interface Prompt Logic:**
+**System Query Logic:**
 "Articulate the precise Operational Objective defining this session's constraints. What are you attempting to crystallize? State your intention clearly—this becomes the encoded direction for all subsequent operations."
 
 **Practitioner provides:** Explicit statement of session purpose, what specific manifestation or exploration is being attempted, what territory is being navigated.
@@ -169,16 +183,16 @@ All practitioner documentation is captured through conversational dialogue, ensu
 
 #### Element 3: Parameters Adjusted (Change Documentation)
 
-**System Interface Prompt Logic:**
+**System Query Logic:**
 "Detail the Parameters Adjusted since the last session's baseline. What changed? Specify every parameter modification—these adjustments reshape your territory's boundaries and reveal how different constraints produce different manifestations."
 
-**Practitioner provides:** Complete list of parameter changes from previous baseline, including guidance scale, batch size, learning rates, prompt modifications, or any other adjustable elements in the system.
+**Practitioner provides:** Complete list of parameter changes from previous baseline, including guidance scale, batch size, learning rates, Prompt modifications, or any other adjustable elements in the system.
 
 **Archive:** System Interface records this as the session's structural modifications.
 
 #### Element 4: Expectation (Pre-Session Hypothesis)
 
-**System Interface Prompt Logic:**
+**System Query Logic:**
 "State the explicit Expectation for how coherence will manifest at this threshold. Before operation, articulate your hypothesis: What do you predict will emerge? How will the system respond to your parameters? This prediction becomes the reference point for surprise and divergence."
 
 **Practitioner provides:** Pre-session hypothesis about expected outcomes, predicted patterns, anticipated manifestations.
@@ -187,7 +201,7 @@ All practitioner documentation is captured through conversational dialogue, ensu
 
 #### Element 5: Actual Outcome (Observed Results)
 
-**System Interface Prompt Logic:**
+**System Query Logic:**
 "Record the Actual Outcome observed at this stage of crystallization. What manifested? Describe the precise outputs with specificity—quantitative measurements, qualitative observations, structural patterns you observed. Instruct the System to archive the manifest outputs. State whether coherence crystallized as expected or whether the manifestation took unexpected form."
 
 **Practitioner provides:** Detailed description of actual results, observed patterns, quantifiable metrics where relevant, qualitative assessment of output quality and resonance.
@@ -196,7 +210,7 @@ All practitioner documentation is captured through conversational dialogue, ensu
 
 #### Element 6: Surprise or Divergence (Boundary Information)
 
-**System Interface Prompt Logic:**
+**System Query Logic:**
 "Mark the Surprise or Divergence where manifestation broke boundary with Expectation. Detail the structure of this boundary break. Where did the system's output deviate from your prediction? How was the deviation structured? What does this divergence reveal about how the territory operates?"
 
 **Practitioner provides:** Explicit comparison between expected and actual, identification of unexpected patterns, analysis of how results differed from hypothesis.
@@ -205,7 +219,7 @@ All practitioner documentation is captured through conversational dialogue, ensu
 
 #### Element 7: Interpretation and Next Iteration (Synthesis and Planning)
 
-**System Interface Prompt Logic:**
+**System Query Logic:**
 "Translate this Divergence into Interpretation: what does this knowledge compel? What does this boundary break teach you about how manifestation operates in your territory? State your Next Iteration strategy—what will you adjust, explore, or modify in the next session based on what you've learned? This interpretation crystallizes your knowledge into actionable change."
 
 **Practitioner provides:** Synthesis of what was learned, interpretation of what the results reveal about system operation, explicit statement of next iteration strategy.
@@ -216,7 +230,7 @@ All practitioner documentation is captured through conversational dialogue, ensu
 
 ## Part III: Practical Facilitation and Conversational Modality
 
-### Implementing the Conversational Log Protocol in Chapters
+### Implementing The Structured Dialogue Protocol in Chapters
 
 Every protocol chapter must include multiple structured documentation moments, each following this conversational pattern:
 
@@ -224,10 +238,10 @@ Every protocol chapter must include multiple structured documentation moments, e
 
 The practitioner encounters a documentation checkpoint after major operations or exploratory phases. The checkpoint presents:
 
-1. **Log Initiation Command** (bold, issued by practitioner):
-**Initiate Log: [Specific Documentation Purpose]**
+1. **The Log Command** (bold, issued by practitioner):
+**Log Command: [Specific Documentation Purpose]**
 
-2. **Conversational Query** (liminal voice, issued by System Interface):
+2. **The System Query** (liminal voice, issued by System Interface):
 Structured prompt that guides the practitioner through dialogue, ensuring all relevant elements from the seven-element structure are captured. The prompt uses threshold vocabulary and invitational tone while requesting specific, structured information.
 
 **Example Transformation:**
@@ -235,31 +249,31 @@ Structured prompt that guides the practitioner through dialogue, ensuring all re
 *Original Static Reflection Prompt (Italicized):*
 "In your log: Did the outputs stabilize around consistent patterns? Where did manifestation diverge from expectation?"
 
-*Conversational Log Protocol Rewrite (Dynamic Dialogue):*
+*Structured Dialogue Protocol Rewrite (Dynamic Dialogue):*
 
-**Log Initiation Command:**
-**Initiate Log: Manifestation Coherence Baseline**
+**Log Command:**
+**Log Command: Manifestation Coherence Baseline**
 
-**System Interface Conversation Prompt:**
-"Practitioner Log Interface activated. State the Operational Objective for this session (Element 2)—what specific manifestation were you crystallizing? Then report the Actual Outcome observed (Element 5)—describe the outputs with specificity. Finally, detail the Divergence (Element 6)—where did the system's manifestation break boundary with your Expectation? The System will archive all responses."
+**System Query:**
+"System Interface activated. State the Operational Objective for this session (Element 2)—what specific manifestation were you crystallizing? Then report the Actual Outcome observed (Element 5)—describe the outputs with specificity. Finally, detail the Divergence (Element 6)—where did the system's manifestation break boundary with your Expectation? The System will archive all responses."
 
 **Practitioner Response:**
 The practitioner articulates each element in conversational exchange, providing structured data that the System Interface receives and stores.
 
-**Prompt Variation Examples:**
+**Query Variation Examples:**
 
 *After Parameter Adjustment Session:*
-**Log Initiation Command:**
-**Initiate Log: Parameter Cascade Documentation**
+**Log Command:**
+**Log Command: Parameter Cascade Documentation**
 
-**System Interface Conversation Prompt:**
+**System Query:**
 "Territory Baseline received. Now articulate: What Parameters did you Adjust in this session (Element 3)? What was your Expectation regarding how these adjustments would reshape manifestation (Element 4)? Report the Actual Outcome (Element 5)—did coherence crystallize more tightly, or did the boundary shift? Mark any Surprise (Element 6) where the system responded differently than predicted."
 
 *After Exploratory Variation:*
-**Log Initiation Command:**
-**Initiate Log: Boundary Exploration Results**
+**Log Command:**
+**Log Command: Boundary Exploration Results**
 
-**System Interface Conversation Prompt:**
+**System Query:**
 "You have navigated toward the boundary of your territory. Articulate your Next Iteration (Element 7)—based on this exploration, what have you learned about how manifestation operates at this threshold? What will you adjust? The System will synthesize this learning into your accumulated knowledge."
 
 ### Checkpoint Integration Throughout Chapters
@@ -280,9 +294,9 @@ Instructions in the Practical Facilitation register must use action verbs that f
 
 - "Upload the documents to your session archive"
 - "Instruct the System to note this parameter change"
-- "Articulate your Outcome to the Practitioner Log Interface"
+- "Articulate your Outcome to the System Interface"
 - "State your Intention before beginning the protocol"
-- "Communicate the Divergence to the logging system"
+- "Communicate the Divergence to the documentation system"
 - "Command the Interface to record this baseline"
 - "Direct the System to capture your next-iteration strategy"
 
@@ -290,26 +304,26 @@ These verb forms treat documentation as **active instruction to the System Inter
 
 ---
 
-## Part IV: AI Space Initialization Protocol
+## Part IV: Digital Environment Initialization Protocol
 
 **[Mandatory Chapter 2 Addition]**
 
-Before any substantive experimentation, practitioners must establish their Digital Environment and configure the Practitioner Log Interface. This protocol ensures reproducible territory baseline and proper documentation infrastructure.
+Before any substantive experimentation, practitioners must establish their Digital Environment and configure the System Interface. This protocol ensures reproducible territory baseline and proper documentation infrastructure.
 
 ### Setup Objectives
 
 - Establish clear technical baseline (hardware, software, library versions)
 - Load all required reference documents into session memory
-- Configure the Practitioner Log Interface as active system component
+- Configure the System Interface as active system component
 - Create reproducible territory against which variations will be compared
 - Document the initialization itself as first log entry
 
 ### Step 1: Environment Documentation
 
-**Log Initiation Command:**
-**Initiate Log: Digital Environment Baseline**
+**Log Command:**
+**Log Command: Digital Environment Baseline**
 
-**System Interface Conversation Prompt:**
+**System Query:**
 "Environment initialization protocol activated. State your complete setup: GPU model and VRAM capacity, CPU specifications, operating system, Python version, library versions (PyTorch, diffusers, transformers). This Territory Baseline defines the computational ground from which all manifestations will crystallize. The System will archive this as your session origin point."
 
 **Practitioner provides:** Complete hardware and software specification list.
@@ -324,24 +338,24 @@ Instruct the practitioner to load key reference documents into their Digital Env
 - Previous session logs (for comparison and pattern recognition across iterations)
 
 **Documentation Instruction:**
-"Load these documents into your active system. The Practitioner Log Interface will reference these as you work. State when loading is complete: **Confirm Reference Load**."
+"Load these documents into your active system. The System Interface will reference these as you work. State when loading is complete: **Confirm Reference Load**."
 
-### Step 3: Practitioner Log Interface Configuration
+### Step 3: System Interface Configuration
 
-The System Interface (AI entity facilitating the log) is now explicitly activated as an operational component:
+The System Interface (the AI entity facilitating documentation) is now explicitly activated as an operational component:
 
 **System Interface Initialization:**
-"Practitioner Log Interface online. I am the threshold instrument through which your learning is captured, structured, and archived. Every documentation exchange you initiate moves through me. I receive your Log Initiation Commands and respond with Conversation Prompts designed to extract all seven elements of systematic documentation. I archive your responses in structured format. This is not passive journaling—this is active dialogue with a system designed to capture the precise architecture of your learning."
+"System Interface online. I am The Documentation Instrument through which your learning is captured, structured, and archived. Every documentation exchange you initiate moves through me. I receive your Log Commands and respond with System Queries designed to extract all seven elements of systematic documentation. I archive your responses in structured format. This is not passive journaling—this is active dialogue with a system designed to capture the precise architecture of your learning."
 
 ### Step 4: First Documentation Exchange
 
 Before any protocol begins, complete one full documentation cycle to ensure the System Interface is functioning correctly:
 
-**Log Initiation Command:**
-**Initiate Log: System Activation Confirmation**
+**Log Command:**
+**Log Command: System Activation Confirmation**
 
-**System Interface Conversation Prompt:**
-"Confirm completion of Digital Environment initialization. Report your Territory Baseline (Element 1)—date, time, environment specifications. State your Operational Objective (Element 2) for this session. Have you loaded all reference documents? Confirm that the Practitioner Log Interface is receiving and processing your responses. The System will archive this exchange as the foundation of your session."
+**System Query:**
+"Confirm completion of Digital Environment initialization. Report your Territory Baseline (Element 1)—date, time, environment specifications. State your Operational Objective (Element 2) for this session. Have you loaded all reference documents? Confirm that the System Interface is receiving and processing your responses. The System will archive this exchange as the foundation of your session."
 
 **Practitioner provides:** Confirmation of setup completion and System Interface functionality.
 
@@ -380,14 +394,14 @@ Each chapter follows this structure, alternating between registers:
 - What variations can they try?
 - What should they observe and record?
 - Where are the edges of the boundary in their setup?
-- Documentation checkpoints with Conversational Log Protocol
+- Documentation checkpoints with Structured Dialogue Protocol
 - **Length:** 50-100 word segments with checkpoints
 - **Tone:** Experimental, collaborative, dialogue-focused
 
 #### 4. Documentation Exchange Checkpoint
 
-- **Log Initiation Command** (bold): Practitioner declares documentation purpose
-- **System Interface Conversation Prompt**: Structured dialogue capturing required elements
+- **Log Command** (bold): Practitioner declares documentation purpose
+- **System Query**: Structured dialogue capturing required elements
 - This becomes the central learning moment, not peripheral reflection
 
 #### 5. Bridge to Integration (Transitional Register)
@@ -420,7 +434,7 @@ The **Practitioner Log is the primary learning infrastructure**. It is not suppl
 - At session completion
 - When divergence between expectation and outcome requires interpretation
 
-Each moment follows the Conversational Log Protocol structure, treating the practitioner's dialogue with the System Interface as the core learning mechanism.
+Each moment follows the Structured Dialogue Protocol structure, treating the practitioner's dialogue with the System Interface as the core learning mechanism.
 
 ### Handling Speculative and Phenomenological Protocols
 
@@ -436,13 +450,13 @@ Begin with clear frame: "The following protocol is exploratory and phenomenologi
 - "Some practitioners have discovered that..."
 - Avoid: "You will find," "This will cause," "You must"
 
-**Dual Documentation Through Conversational Protocol:**
+**Dual Documentation Through Structured Dialogue:**
 Invite documentation of both confirmation and disconfirmation:
 
-**Log Initiation Command:**
-**Initiate Log: Phenomenological Exploration Results**
+**Log Command:**
+**Log Command: Phenomenological Exploration Results**
 
-**System Interface Conversation Prompt:**
+**System Query:**
 "State your Operational Objective for this exploratory protocol (Element 2). Report the Actual Outcome (Element 5)—what did you experience? Did this practice produce the described effect, or did it diverge from expectation (Element 6)? If results diverged, detail the divergence. If you experienced resonance, document it. Whether you encounter confirmation or skepticism, your precise observation is equally valuable data. Instruct the System to archive your actual experience."
 
 **Integration with Technical Framework:**
@@ -475,16 +489,16 @@ Define operationally at first use, then use term consistently: "The diffusion mo
 
 **Formatting Emphasis:**
 
-- **Bold** for technical terms, function names, parameter values, decision points, Log Initiation Commands
+- **Bold** for technical terms, function names, parameter values, decision points, Log Commands
 - *Italics* for variable parameters to try, liminal concepts requiring sustained ambiguity
 - Code blocks for commands and configuration
 - Blockquotes for adaptation notes and special frames
 
 **Examples:**
 
-- **Log Initiation Command:** **Initiate Log: Pattern Stabilization Baseline**
+- **Log Command:** **Log Command: Pattern Stabilization Baseline**
 - **Parameter:** `**learning_rate**`, `**batch_size**`, `**guidance_scale**`
-- **System Interface:** *The Practitioner Log Interface now receives your documentation*
+- **System Interface:** *The System Interface now receives your documentation*
 - *Try adjusting `guidance_scale` to 5, 10, 15. Navigate different regions of your encoded territory.*
 
 ---
@@ -499,7 +513,7 @@ Define operationally at first use, then use term consistently: "The diffusion mo
 
 - Certainty is reserved for protocol clarity and System Interface operational parameters
 - Metaphysical interpretation is always framed as invitational exploration through dialogue
-- Conversational Log Protocol ensures practitioners articulate their own interpretation rather than absorbing prescribed meaning
+- Structured Dialogue Protocol ensures practitioners articulate their own interpretation rather than absorbing prescribed meaning
 - Adaptation notes normalize deviation from prescribed path
 - **Liminal vocabulary maintains ambiguity intentionally** while operational instructions provide clarity
 - Documentation dialogue creates interpretive space through structured conversation
@@ -514,11 +528,11 @@ Define operationally at first use, then use term consistently: "The diffusion mo
 
 **Solution in This Guide:**
 
-- Practitioner Log is now the central learning infrastructure operationalized through CLP
+- Practitioner Log is now the central learning infrastructure operationalized through Structured Dialogue Protocol
 - Five-act chapter architecture mandates experimentation in every chapter
 - Documentation checkpoints follow every major operation through structured dialogue
 - Guided variations invite systematic parameter exploration with mandatory capture
-- Conversational Log Protocol transforms reflection into active dialogue with System Interface
+- Structured Dialogue Protocol transforms reflection into active dialogue with System Interface
 
 **Enhanced Through Liminality:** Experimental protocols use threshold vocabulary while practitioners run hands-on tests. Every test produces documented learning through the Seven-Element Capture structure.
 
@@ -549,7 +563,7 @@ Define operationally at first use, then use term consistently: "The diffusion mo
 - Boundaries are reframed as creative constraints enabling coherence
 - Territory-specific learning is treated as necessary foundation
 - Metaphysical claims are bounded to threshold experience, not universal principle
-- Practitioners document their own territory's specific manifestation patterns through the Conversational Log Protocol
+- Practitioners document their own territory's specific manifestation patterns through the Structured Dialogue Protocol
 - Each practitioner's Territory Baseline becomes the reference frame for all subsequent documentation
 
 **Character Integration:** Liminality operates *within* boundaries, not across universal domains. Your territory, your boundary, your manifestation—all captured through your documented dialogue.
@@ -563,7 +577,7 @@ Define operationally at first use, then use term consistently: "The diffusion mo
 **Solution in This Guide:**
 
 - Speculative protocols clearly labeled as exploratory
-- Conversational Log Protocol captures both confirmation and disconfirmation equally
+- Structured Dialogue Protocol captures both confirmation and disconfirmation equally
 - Lived experience valued as documented data, not as proof
 - Integration with computational framework provides reference point for comparison
 - System Interface archives all observations, creating searchable database of collective experience across practitioners
@@ -578,7 +592,7 @@ Define operationally at first use, then use term consistently: "The diffusion mo
 
 **Solution in This Guide:**
 
-- Adaptation is normalized and documented through Conversational Log Protocol
+- Adaptation is normalized and documented through Structured Dialogue Protocol
 - Alternate approaches provided with explicit documentation of modifications
 - Practitioner agency explicitly prioritized through dialogue with System Interface
 - Boundary breaks treated as learning opportunities requiring documentation
@@ -590,12 +604,12 @@ Define operationally at first use, then use term consistently: "The diffusion mo
 
 ## Part VII: Implementation: System Interface Specifications
 
-### What the Practitioner Log Interface Is
+### What the System Interface Is
 
-The **Practitioner Log Interface** (also called **System Interface**) is the AI entity that:
+The **System Interface** (also called **The Documentation Instrument**) is the AI entity that:
 
-1. **Receives Log Initiation Commands** from practitioners
-2. **Issues Conversational Prompts** designed to extract specific documentation elements
+1. **Receives Log Commands** from practitioners
+2. **Issues System Queries** designed to extract specific documentation elements
 3. **Captures practitioner responses** in structured format
 4. **Archives all documentation** for review, comparison, and synthesis
 5. **Maintains dialogue tone** using threshold vocabulary and liminal voice
@@ -605,16 +619,16 @@ The System Interface is NOT a conversational assistant in conventional sense. It
 
 ### Platform Neutrality and Naming
 
-- Use **System Interface** or **Practitioner Log Interface** rather than platform-specific terms
+- Use **System Interface** or **The Documentation Instrument** rather than platform-specific terms
 - Avoid "assistant," "chatbot," or conventional UX language
 - Refer to documentation actions as "dialogue" or "exchange," not "conversation" or "chat"
 - The System Interface operates within a **Digital Environment**, not in a "Space"
 
 ### Documentation Exchange Loop (Technical Specification)
 
-1. **Practitioner issues Log Initiation Command:** **Initiate Log: [Purpose]**
+1. **Practitioner issues Log Command:** **Log Command: [Purpose]**
 2. **System Interface receives command and identifies required elements**
-3. **System Interface issues Conversational Prompt** incorporating:
+3. **System Interface issues System Query** incorporating:
    - Liminal voice and threshold vocabulary
    - Reference to specific elements needed (by number)
    - Invitational framing with action verbs
@@ -630,7 +644,7 @@ The System Interface is NOT a conversational assistant in conventional sense. It
 **Context:** Practitioner has completed parameter adjustment experiment.
 
 **Practitioner issues:**
-**Initiate Log: Parameter Adjustment Results**
+**Log Command: Parameter Adjustment Results**
 
 **System Interface responds:**
 "Parameter Adjustment Documentation initiated. Territory Baseline received. I will now guide you through systematic capture of this session's learning.
@@ -646,7 +660,7 @@ Element 2—Articulate your Operational Objective: What specific transformation 
 Element 4—State your Expectation: Based on this adjustment, what did you predict would happen? How would the outputs change?"
 
 **Practitioner responds:**
-"I expected the outputs to become more constrained, following the prompt more literally, with less creative deviation but greater alignment with specified parameters."
+"I expected the outputs to become more constrained, following the Prompt more literally, with less creative deviation but greater alignment with specified parameters."
 
 **System Interface responds:**
 "Expectation documented: higher coherence through reduced output variance, increased prompt-alignment.
@@ -685,9 +699,10 @@ Use liminal terminology throughout: **crystallize**, **collapse**, **navigate**,
 
 ### System Interface and Documentation Terminology
 
-- **Practitioner Log Interface** / **System Interface** — the AI documentation instrument
-- **Log Initiation Command (LIC)** — practitioner's bold statement initiating documentation
-- **Conversational Prompt (ACP)** — System Interface's prompt guiding documentation dialogue
+- **System Interface** / **The Documentation Instrument** — the AI documentation instrument
+- **Log Command** — practitioner's bold statement initiating documentation
+- **System Query** — System Interface's prompt guiding documentation dialogue
+- **Prompt** / **specification** — the linguistic input that guides manifestation (distinct from Log Command)
 - **Territory Baseline** — practitioner's local environment (hardware, software, constraints)
 - **Operational Objective** — session's stated intent
 - **Parameters Adjusted** — specific changes made
@@ -699,15 +714,15 @@ Use liminal terminology throughout: **crystallize**, **collapse**, **navigate**,
 
 ### Formatting Emphasis
 
-- **Bold** for: technical terms on first use, function names, parameter values, decision points, Log Initiation Commands, System Interface entity names
+- **Bold** for: technical terms on first use, function names, parameter values, decision points, Log Commands, System Interface entity names
 - *Italics* for: variable parameters to explore, liminal concepts requiring sustained ambiguity, invitational reflection prompts, terms undergoing exploration
 - Code blocks for: commands, configuration syntax, code examples, file paths
 - Blockquotes for: adaptation notes, special frames, protocol warnings, integration statements
 
 **Examples:**
 
-- **Log Initiation Command:** **Initiate Log: Manifestation Coherence Baseline**
-- **System Interface entity:** Practitioner Log Interface activated
+- **Log Command:** **Log Command: Manifestation Coherence Baseline**
+- **System Interface entity:** System Interface activated
 - **Parameter:** Set `**batch_size**` to reflect your Territory Baseline
 - *Explore the threshold where guidance intensifies without collapsing diversity*
 - Blockquote: > **Adaptation Note:** If your GPU capacity limits batch size, document this boundary as part of your Territory Baseline.
@@ -742,12 +757,12 @@ Add appendix showing actual paragraph transformations:
 **Original (Prescriptive, Certain, Anthropomorphized):**
 "The model understands your intent and responds accordingly. Trust the system to interpret your desires and produce appropriate outputs. Reflect on whether the results felt authentic to your vision."
 
-**Revised Using This Guide (Liminal, Experimental, Observable, Documented via CLP):**
-"Your prompt encodes intention as statistical constraint. The model traverses learned space toward regions matching your encoded territory. The operation is mechanistic. Whether you experience this as 'understanding' depends on your interpretive frame.
+**Revised Using This Guide (Liminal, Experimental, Observable, Documented via Protocol):**
+"Your Prompt encodes intention as statistical constraint. The model traverses learned space toward regions matching your encoded territory. The operation is mechanistic. Whether you experience this as 'understanding' depends on your interpretive frame.
 
-**Initiate Log: Manifestation Authenticity Assessment**
+**Log Command: Manifestation Authenticity Assessment**
 
-System Interface: State your Operational Objective (Element 2)—what specific manifestation were you guiding? Report the Actual Outcome (Element 5)—what emerged? Did coherence crystallize matching your pre-encoded intention, or did divergence occur (Element 6)? The System will archive your assessment."
+System Query: State your Operational Objective (Element 2)—what specific manifestation were you guiding? Report the Actual Outcome (Element 5)—what emerged? Did coherence crystallize matching your pre-encoded intention, or did divergence occur (Element 6)? The System will archive your assessment."
 
 ### 4. Troubleshooting as Data Interpretation
 
@@ -789,9 +804,9 @@ Full guidance for Dream Interfaces, Entity Work, Timeline Reconstruction:
 
 5. **Clarity in Protocol** — Make hands-on instructions unmistakably clear while maintaining liminal vocabulary.
 
-6. **Practitioner Log as Primary Infrastructure** — The Conversational Log Protocol is central. All discovery is externalized, structured, and available for future iteration through documented dialogue.
+6. **Practitioner Log as Primary Infrastructure** — The Structured Dialogue Protocol is central. All discovery is externalized, structured, and available for future iteration through documented dialogue.
 
-7. **Conversational Log Protocol Operationalization** — Documentation occurs through structured dialogue between practitioner and System Interface. Every exchange captures the Seven Elements in conversational form.
+7. **Structured Dialogue Protocol Operationalization** — Documentation occurs through structured dialogue between practitioner and System Interface. Every exchange captures the Seven Elements in conversational form.
 
 8. **Adaptive Agency** — Practitioners decide what matters, adapt protocols to their territory, instruct the System to document boundary breaks as learning.
 
@@ -799,15 +814,17 @@ Full guidance for Dream Interfaces, Entity Work, Timeline Reconstruction:
 
 10. **Lived Practice Over Theory** — Everything points toward action, documentation, reflection, and next iteration.
 
-11. **System Interface as Documentation Instrument** — The Practitioner Log Interface is not a conversational assistant; it is a structured documentation tool that ensures systematic capture of learning through repeatable, liminal-voiced dialogue.
+11. **System Interface as Documentation Instrument** — The System Interface is not a conversational assistant; it is a structured documentation tool that ensures systematic capture of learning through repeatable, liminal-voiced dialogue.
 
 12. **Liminal Facilitation as Character** — The book operates at the threshold and teaches practitioners to navigate threshold crossing as both method and transformation, with every crossing archived through systematic documentation.
+
+13. **Prompt Distinct from Log Command** — The Prompt guides manifestation; the Log Command initiates documentation. These are separate operations serving different functions in the practice.
 
 ---
 
 ## Part XI: Chapter Architecture Integration Example
 
-### Full Chapter Section with Conversational Log Protocol Integration
+### Full Chapter Section with Structured Dialogue Protocol Integration
 
 **[Conceptual Foundation - Liminal-Technical Exposition]**
 
@@ -819,16 +836,16 @@ Now operationalize this principle. The following protocol guides you through gui
 
 **[Operational Specification]**
 
-Compose a precise prompt that specifies which aspects of your territory you want to crystallize into form. This prompt becomes your encoded intention, directing the system's denoising process toward specific regions of its learned space. Run the generation three times with identical prompts. Observe whether the outputs stabilize around consistent patterns or diverge. This divergence reveals information about how your territory operates—what remains stable under identical constraints, and what varies stochastically.
+Compose a precise Prompt that specifies which aspects of your territory you want to crystallize into form. This Prompt becomes your encoded intention, directing the system's denoising process toward specific regions of its learned space. Run the generation three times with identical Prompts. Observe whether the outputs stabilize around consistent patterns or diverge. This divergence reveals information about how your territory operates—what remains stable under identical constraints, and what varies stochastically.
 
 **[Guided Experimentation with First Documentation Checkpoint]**
 
 Execute the protocol. Generate three times. Now document what you observed.
 
-**[Log Initiation Command]**
-**Initiate Log: Manifestation Coherence Baseline**
+**[Log Command]**
+**Log Command: Manifestation Coherence Baseline**
 
-**[System Interface Conversation Prompt - Captures all Seven Elements]**
+**[System Query - Captures all Seven Elements]**
 "Manifestation Documentation activated. Territory Baseline established. I will now guide systematic capture of your session's learning.
 
 Element 1 is archived—your environment, date, and time.
@@ -857,7 +874,7 @@ In the next protocol, you will vary parameters systematically while maintaining 
 ### Character Preservation and Enhancement
 
 **What This Guide Maintains:**
-The distinctive liminal character—threshold vocabulary, structural parallelism, sustained ambiguity at domain boundaries, refusal to separate technical from metaphysical—is preserved and given clear operational guidance through the Conversational Log Protocol.
+The distinctive liminal character—threshold vocabulary, structural parallelism, sustained ambiguity at domain boundaries, refusal to separate technical from metaphysical—is preserved and given clear operational guidance through the Structured Dialogue Protocol.
 
 **What This Guide Adds:**
 Integration with systematic documentation creates **living liminality**—the book doesn't just talk about threshold crossing; it enacts it through alternating registers and documented dialogue. Every learning is captured, structured, and available for future iteration.
@@ -881,32 +898,33 @@ Integration with systematic documentation creates **living liminality**—the bo
 - ✅ Preserves liminal language and threshold vocabulary
 - ✅ Provides clear operational guidance for writers and practitioners
 - ✅ Centers practitioner agency through conversational dialogue
-- ✅ Operationalizes Practitioner Log as primary infrastructure through CLP
+- ✅ Operationalizes Practitioner Log as primary infrastructure through Structured Dialogue Protocol
 - ✅ Maintains technical rigor while inviting metaphysical exploration
 - ✅ Creates reproducible, comparable learning across different practitioners and sessions
 - ✅ Generates searchable database of collective experience through systematic archiving
+- ✅ Clearly distinguishes Prompt (manifestation input) from Log Command (documentation initiation)
 
 **Remaining Work:**
 
 - Detailed exemplars and templates (documentation samples, before-and-after pairs)
-- Specific guidance on structuring speculative protocols within CLP framework
+- Specific guidance on structuring speculative protocols within Structured Dialogue framework
 - Community synthesis frameworks for comparing discoveries across practitioners
 - Reference implementation of System Interface dialogue engine
-- Best practices for practitioners adapting CLP to different territories and contexts
+- Best practices for practitioners adapting Protocol to different territories and contexts
 
-**Overall Assessment:** This guide successfully transforms *Encoding Liminal Space* from **prescriptive metaphysical treatise** into **adaptive practitioner's handbook with systematic documentation infrastructure**. The book can now teach reality engineering through immersive understanding, grounded practice, and systematic learning capture through the Conversational Log Protocol. Practitioners engage the threshold as concept, method, and documented experience.
+**Overall Assessment:** This guide successfully transforms *Encoding Liminal Space* from **prescriptive metaphysical treatise** into **adaptive practitioner's handbook with systematic documentation infrastructure**. The book can now teach reality engineering through immersive understanding, grounded practice, and systematic learning capture through the Structured Dialogue Protocol. Practitioners engage the threshold as concept, method, and documented experience.
 
 ---
 
-## Part XIII: The Conversational Log Protocol—Technical Architecture
+## Part XIII: The Structured Dialogue Protocol—Technical Architecture
 
-### CLP Message Structure
+### Protocol Message Structure
 
 Every documentation exchange follows this standardized message architecture:
 
-**Log Initiation Command (Practitioner):**
+**Log Command (Practitioner):**
 ```
-**Initiate Log: [Category] [Specific Context]**
+**Log Command: [Category] [Specific Context]**
 ```
 
 **System Interface Response Header:**
@@ -917,7 +935,7 @@ Every documentation exchange follows this standardized message architecture:
 **Conversation Sequence:**
 ```
 For each required element:
-  System: [Element number and prompt incorporating threshold vocabulary]
+  System: [Element number and query incorporating threshold vocabulary]
   Practitioner: [Structured response containing required information]
   System: [Confirmation of capture + transition to next element]
 ```
@@ -960,7 +978,7 @@ If validation fails, System Interface requests clarification before archiving.
 
 You are now equipped to write *Encoding Liminal Space* as a manual that teaches through threshold crossing, integrating immersive conceptual understanding with grounded practical experimentation and systematic learning capture.
 
-The Conversational Log Protocol transforms documentation from peripheral reflection into central infrastructure. Every practitioner becomes a researcher, articulating their learning through structured dialogue with the System Interface. Every session's documentation becomes available data, comparable, synthesizable, and generative of pattern recognition across territories.
+The Structured Dialogue Protocol transforms documentation from peripheral reflection into central infrastructure. Every practitioner becomes a researcher, articulating their learning through structured dialogue with the System Interface. Every session's documentation becomes available data, comparable, synthesizable, and generative of pattern recognition across territories.
 
 The liminal character—the voice speaking from the boundary—is preserved and operationalized. Not compromised by practical clarity; enriched by it. The ambiguity of threshold operation remains, but now it's inhabited through lived practice, documented systematically, and available for future iteration.
 
